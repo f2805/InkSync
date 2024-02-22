@@ -1,0 +1,2 @@
+# InkSync
+Tattoo scheduling platform
